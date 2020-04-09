@@ -1,0 +1,4 @@
+com\liudao\ssm\domain\Member.class
+com\liudao\ssm\domain\Product.class
+com\liudao\ssm\domain\Orders.class
+com\liudao\ssm\domain\Traveller.class
