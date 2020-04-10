@@ -1,4 +1,6 @@
 com\liudao\service\impl\OrdersServiceImpl.class
 com\liudao\service\impl\ProductServiceImpl.class
+com\liudao\service\impl\UserServiceImpl.class
 com\liudao\service\IOrdersService.class
+com\liudao\service\IUserService.class
 com\liudao\service\IProductService.class

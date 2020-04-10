@@ -6,12 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="bms_ssm_service" />
-        <module name="bms_ssm_dao" />
         <module name="bms_ssm_web" />
+        <module name="bms_ssm_dao" />
+        <module name="bms_ssm_service" />
         <module name="bms_ssm_utils" />
         <module name="bms_ssm_domain" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springSecurityTest" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,4 +1,7 @@
+com\liudao\ssm\domain\UserInfo.class
 com\liudao\ssm\domain\Member.class
+com\liudao\ssm\domain\Permission.class
+com\liudao\ssm\domain\Role.class
 com\liudao\ssm\domain\Product.class
 com\liudao\ssm\domain\Orders.class
 com\liudao\ssm\domain\Traveller.class
